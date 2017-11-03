@@ -3,4 +3,4 @@ A collection of programming challenges for people who feel like it, aka, my frie
 
 # Puzzlers
 
-* [001](https://github.com/grenewode/grenewodes_programming_puzzlers/blob/master/001/Challenge.md)
+* [001](https://github.com/grenewode/grenewodes_programming_puzzlers/blob/master/001/Challenge.md): Implement a compile mapping between types.
