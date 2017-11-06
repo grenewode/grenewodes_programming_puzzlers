@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.jsm": "javascript",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "type_traits": "cpp"
+    }
+}
